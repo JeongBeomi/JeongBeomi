@@ -16,12 +16,10 @@ Here are some ideas to get you started:
 -->
 
 # Stats 🔍
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeongBeomi&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qja367)](https://solved.ac/qja367/)
-
-# STACKS 🛠️
+<br>
 <div align="center">
   <img width="55%" src="https://github-readme-stats.vercel.app/api?username=JeongBeomi&show_icons=true&theme=radical">
   <img width="44%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qja367">
  </div>
+ <br>
+ # STACKS 🛠️
