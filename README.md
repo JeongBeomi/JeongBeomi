@@ -22,4 +22,4 @@ Here are some ideas to get you started:
   <img width="44%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qja367">
  </div>
  <br>
- # STACKS 🛠️
+# STACKS 🛠️
