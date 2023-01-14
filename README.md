@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 <br>
 <div align="center">
   <img width="55%" src="https://github-readme-stats.vercel.app/api?username=JeongBeomi&show_icons=true&theme=radical">
-  <img width="44%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qja367">(https://solved.ac/jatyu62)
- </div>
+  <img width="44%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qja367">
  <br>
 # STACKS 🛠️
