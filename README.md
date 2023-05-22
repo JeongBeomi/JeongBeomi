@@ -1,8 +1,6 @@
 ### Hi there 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeongBeomi&count_bg=%23C800FF&title_bg=%23410E86&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![COBBY_BADGE](https://cobby-play.com/api/user/badge/hagnoykmik)
-
 <!--
 **JeongBeomi/JeongBeomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
